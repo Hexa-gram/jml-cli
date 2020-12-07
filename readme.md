@@ -1,4 +1,5 @@
 # CLI简介
+![avatar](/img/头图.jpeg)
 ## 1.什么是CLI 
 
 CLI是command-line interface的缩写，即命令行工具，常用的vue-cli， create-react-app，express-generator 等都是CLI工具
@@ -224,7 +225,9 @@ function go() {
 接下来我们为我们的脚手架设计一点交互,有问有答,**才有技术feel~**  
 我们引入**inquirer**模块来设计我们的交互   
 > 官方文档 [`inquirer`](https://github.com/SBoudrias/Inquirer.js)
-
+```bash
+npm i inquirer
+```
 
 ## 4.设计交互
 
