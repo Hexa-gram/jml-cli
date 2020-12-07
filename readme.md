@@ -1,5 +1,5 @@
 # CLI简介
-<img src="./img/头图.jpg" width = "100%" alt="图片名称" />
+<img src="./img/header.jpg" width = "100%" alt="图片名称" />
 ## 1.什么是CLI 
 
 CLI是command-line interface的缩写，即命令行工具，常用的vue-cli， create-react-app，express-generator 等都是CLI工具
