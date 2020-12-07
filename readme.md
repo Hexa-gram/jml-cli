@@ -24,13 +24,15 @@ CLI是command-line interface的缩写，即命令行工具，常用的vue-cli，
 console.log('年轻人,不讲武德,耗子尾汁');
 ```
 <img src="./img/mabaoguo.jpg" alt="图片名称" style="margin:0 auto;"/>
-5.使用**npm install -g** 或者 **npm link** 将当前项目安装到全局环境 **ps:mac需要使用sudo授权**      
+
+5.使用 **npm install -g** 或者 **npm link** 将当前项目安装到全局环境 **ps:mac需要使用sudo授权**        
 6.此时我们可以使用自己的cli工具啦,在terminal输入myscript
 
 
 ## 3.等等,我们还可以更炫酷
 
 <img src="./img/erkang.jpeg" alt="图片名称" style="margin:0 auto;"/>
+
 在package.json的scripts字段里添加脚本名
 ```javascript 
 "scripts": {
@@ -64,7 +66,7 @@ console.log('now env:', process.env.NODE_ENV);
 npm i commander
 ```
 
-<img src="./img/erkang.jpeg" alt="图片名称" style="margin:0 auto;"/>
+<img src="./img/666.jpeg" alt="图片名称" style="margin:0 auto;"/>
 
 1.首先我们创建`index.js`文件并编写如下代码
 ```javascript
