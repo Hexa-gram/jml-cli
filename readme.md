@@ -1,5 +1,5 @@
 # CLI简介
-<img src="./img/header.jpg" width = "100%" alt="图片名称" />
+<img src="./img/header.png" width = "100%" alt="图片名称" />
 
 ## 1.什么是CLI 
 
