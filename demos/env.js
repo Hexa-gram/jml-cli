@@ -1,0 +1,1 @@
+console.log('now env:', process.env.NODE_ENV);
